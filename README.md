@@ -10,7 +10,7 @@ Sebagai sebuah bahasa pemrograman, python sering digunakan baik dalam bidang ris
 ## Memulai Pemrograman dengan Python
 
 <details>
-<summary>Fundamental</summary>
+<summary>Fundamentals</summary>
 
 - [Hello, World!]()
 - [Variables and Types]()
