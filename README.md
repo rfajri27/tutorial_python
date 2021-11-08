@@ -14,7 +14,7 @@ Sebagai sebuah bahasa pemrograman, python sering digunakan baik dalam bidang ris
 <details>
 <summary>Fundamentals</summary>
 
-- [Hello, World!]()
+- [Hello, World!](https://github.com/rfajri27/tutorial_python/blob/main/Fundamentals/f1_helloworld.ipynb)
 - [Variables and Types]()
 - [Input/Output]()
 - [Basic Operators]()
