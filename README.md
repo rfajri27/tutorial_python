@@ -1,4 +1,6 @@
-# **Tutorial Bahasa Pemrograman Python**
+# **Tutorial Bahasa Pemrograman Python (From zero to at least not zero)**
+
+
 
 ## Pengenalan
  Python merupakan bahasa pemrograman tingkat tinggi (*high-level programming language*) yang diproses dengan menggunakan interpreter, selain itu python juga mendukung pemrograman berbasis objek (*object-oriented programming*). Bahasa pemrograman python didesain agar mudah dibaca dan dipelajari sehingga python sering direkomendasi untuk pemula. 
