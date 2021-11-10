@@ -15,12 +15,12 @@ Sebagai sebuah bahasa pemrograman, python sering digunakan baik dalam bidang ris
 <summary>Fundamentals</summary>
 
 - [Hello, World!](https://github.com/Fisika-Komputasi-UB/tutorial_python/blob/main/Fundamentals/f1_helloworld.ipynb)
-- [Variables and Types]()
-- [Input/Output]()
+- [Basic Syntax]()
+- [Variables and Data Types]()
 - [Basic Operators]()
 - [Conditions]()
 - [Loops]()
-- [Numbers]()
+- [Input/Output]()
 
 </details>
 
