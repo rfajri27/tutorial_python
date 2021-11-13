@@ -27,7 +27,7 @@ Untuk menjalankan python melalui web browser kita bisa menggunakan [Google Colab
 
 - [Hello, World!](https://github.com/Fisika-Komputasi-UB/tutorial_python/blob/main/Fundamentals/f1_helloworld.ipynb)
 - [Basic Syntax]()
-- [Variables and Data Types]()
+- [Variables andx Data Types]()
 - [Basic Operators]()
 - [Conditions]()
 - [Loops]()
